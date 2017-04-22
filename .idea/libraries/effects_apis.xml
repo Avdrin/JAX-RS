@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="effects_apis">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://C:/and/android-sdk-windows/add-ons/addon-google_apis-google-21/docs/effects_apis" />
+      <root url="file://C:/and/android-sdk-windows/add-ons/addon-google_apis-google-21/docs/maps_apis" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://C:/and/android-sdk-windows/sources/android-21" />
+      <root url="file://C:/and/android-sdk-windows/sources/android-22" />
+      <root url="file://C:/and/android-sdk-windows/tools/apps/SdkController/src" />
+      <root url="file://C:/and/android-sdk-windows/tools/proguard/examples/annotations/examples" />
+      <root url="file://C:/and/android-sdk-windows/tools/proguard/examples/annotations/src" />
+    </SOURCES>
+  </library>
+</component>
